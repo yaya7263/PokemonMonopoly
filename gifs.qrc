@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/gifs">
+        <file>pokemon/20.gif</file>
+        <file>pokemon/30.gif</file>
+    </qresource>
+</RCC>

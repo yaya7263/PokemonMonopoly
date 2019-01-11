@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+		<file>images/goku.png</file>
+    </qresource>
+    <qresource prefix="/pics"/>
+</RCC>
