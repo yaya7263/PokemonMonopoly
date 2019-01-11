@@ -8,12 +8,6 @@ In QtCreator.
 2. Open PikaMonopoly.pro
 3. Build with the latest version of QT.
 
-The location of the images are hardcoded and thus need to be changed in order for it to run.
-I loaded the images directly from my desktop, a different directory than the QT workspace I was using. 
-
-I tried for more than an hour to try to fix it by moving it to resources/qrc etc.
-The backend is not fully connected to the front end. The front end needs more work since I focused on the backend first.
-I will continue working on it through the night. This project is way more work than I expected
 
 How to Play:
 1. Enter number of Players and number of Humans ( currently works for 2,2)
@@ -41,5 +35,3 @@ http://37.media.tumblr.com/4dcc463c374eee37ee42c153b6ccb0f7/tumblr_n6q1w8a7YR1rd
 https://media1.tenor.com/images/857b21655e702092405a5eb4e120ef64/tenor.gif?itemid=9679878
 http://www.ricedigital.co.uk/wp-content/uploads/2015/07/pikachu-rain.gif
 
-// help from
-https://doc.qt.io/qt-5.11/qtcharts-linechart-example.html
